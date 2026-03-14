@@ -1,6 +1,6 @@
 {
-  "name": "Post Guard",
-  "short_name": "Post Guard",
+  "name": "Teacher Evaluation",
+  "short_name": "Evaluation",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#F5F5DC",
